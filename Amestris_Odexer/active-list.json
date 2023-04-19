@@ -1,0 +1,19 @@
+{
+  "file_info": {
+    "version": 1,
+    "created_date": "2023-04-13",
+    "created_by": "ultimate rig tuner"
+  },
+  "rigs": [
+    {
+      "rigname": "ABC-Worker1",
+      "uuid": "1234-5678-9012-3456",
+      "expiredate": "12/04/2023"
+    },
+    {
+      "uuid": "05293d35-f35c-0f8e-b8bb-6b9a1dcd0e2f",
+      "rigname": "05293-Rig1",
+      "expiredate": "13/04/2023"
+    }
+  ]
+}
